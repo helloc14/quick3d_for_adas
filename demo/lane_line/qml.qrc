@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>adas/road/meshes/laneline.mesh</file>
+        <file>adas/road/shader/fragment.frag</file>
+        <file>adas/road/shader/vertex.frag</file>
+        <file>adas/road/Laneline.qml</file>
+        <file>adas/road/LanelineMetrial.qml</file>
+        <file>adas/Adas.qml</file>
+        <file>main.qml</file>
+        <file>LanelineColorCtl.qml</file>
+        <file>ParamCtl.qml</file>
+    </qresource>
+</RCC>
