@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>meshes/truck.mesh</file>
+        <file>Truck.qml</file>
+    </qresource>
+</RCC>
