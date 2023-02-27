@@ -55,10 +55,15 @@ View3D {
         running: true
         repeat: true
 
-        property real value: -11.0
+//        property real value: -11.0
+
+//        onTriggered: {
+//            value = value + 1.0 > 200.0 ? -10.0 : value + 1.0;
+//        }
+        property real value: 200.0
 
         onTriggered: {
-            value = value + 1.0 > 200.0 ? -10.0 : value + 1.0;
+            value = value - 1.0 < -10.0 ? 200.0 : value - 1.0;
         }
     }
 
