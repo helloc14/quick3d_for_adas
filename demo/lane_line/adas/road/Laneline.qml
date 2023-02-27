@@ -10,9 +10,9 @@ Node {
 
     Model {
         eulerRotation.y: 180
-        scale.z: 0.001  //heng
-        scale.x: 0.01 //qian hou
-        scale.y: 0.0001 //shang xia
+        scale.z: 0.001    //left right
+        scale.x: 0.01     //front back
+        scale.y: 0.0001   //up down
         source: "qrc:/adas/road/meshes/laneline.mesh"
         materials:
             LanelineMetrial {
