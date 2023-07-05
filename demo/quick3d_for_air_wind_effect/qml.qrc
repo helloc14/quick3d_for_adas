@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>res/meshes/cube.mesh</file>
+        <file>res/texture.png</file>
+        <file>Surface.qml</file>
+        <file>SurfaceMaterial.qml</file>
+        <file>shader/fragment.frag</file>
+        <file>shader/vertex.frag</file>
+    </qresource>
+</RCC>
